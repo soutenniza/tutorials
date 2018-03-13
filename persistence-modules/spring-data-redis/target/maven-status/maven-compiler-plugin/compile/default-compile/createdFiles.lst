@@ -1,0 +1,7 @@
+com/baeldung/spring/data/redis/model/Student$Gender.class
+com/baeldung/spring/data/redis/queue/MessagePublisher.class
+com/baeldung/spring/data/redis/config/RedisConfig.class
+com/baeldung/spring/data/redis/queue/RedisMessageSubscriber.class
+com/baeldung/spring/data/redis/model/Student.class
+com/baeldung/spring/data/redis/repo/StudentRepository.class
+com/baeldung/spring/data/redis/queue/RedisMessagePublisher.class
